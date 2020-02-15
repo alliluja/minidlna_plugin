@@ -1,0 +1,10 @@
+{
+    "minidlna" : "/etc/minidlna.conf",
+    "services" : [
+        {
+            "id"      : 1,
+            "name"    : "themoviedb",
+            "api_key" : "your_api_key"
+        }
+    ]
+}
